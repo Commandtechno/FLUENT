@@ -1,4 +1,4 @@
-![otter](stickers/emojis/1F9A6_Otter_1024px_01_01.png)
+![Otter](teams/Animals/Otter.png)
 
 # **F L U E N T**
 
@@ -8,8 +8,8 @@ Collected by some fluent emoji enjoyers
 
 ## info
 
-Static emojis are in the `emojis` folder as png with a resolution of 1200x1200
+Static emojis are in the `flipgrid` folder as `PNG` with a resolution of `1200x1200`
 
-Animated emojis are in the `animated_emojis` folder as gif with a resolution of 100x100 😔
+Animated emojis are in the `teams` folder as `APNG` with a resolution of `100x100` <img width="32px" height="32px" alt="Pensive" src="flipgrid/Smilies/1F614_PensiveFace_1024px_01_01.png" />
 
-If you have any better ways to get fluent emojis, at a higher resolution, or better format, please open an issue! ♥
+If you have any better ways to get fluent emojis, at a higher resolution, or better format, please open an issue! <img width="32px" height="32px" alt="Heart" src="teams/Smilies/Sparkling%20heart.png" />

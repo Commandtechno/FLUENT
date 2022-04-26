@@ -18,9 +18,9 @@ func main() {
 	/*
 		Microsoft Teams
 	*/
-	// os.RemoveAll("teams")
-	// os.Mkdir("teams", os.ModePerm)
+	os.RemoveAll("teams")
+	os.Mkdir("teams", os.ModePerm)
 
-	// fmt.Println("Downloading Microsoft Teams animated emojis")
-	// getTeamsEmojis()
+	fmt.Println("Downloading Microsoft Teams animated emojis")
+	getTeamsEmojis()
 }
