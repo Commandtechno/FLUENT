@@ -1,3 +1,5 @@
+⚠ Microsoft Open-Sourced FLUENT in svg here: https://github.com/microsoft/fluentui-emoji
+
 ![Otter](teams/Animals/Otter.png)
 
 # **F L U E N T**
